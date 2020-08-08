@@ -1,0 +1,22 @@
+[
+  {
+    "title": "The White Stripes",
+    "publishDate": 2001,
+    "description": "description 1"
+  },
+  {
+    "title": "De Stijl",
+    "publishDate": 2002,
+    "description": "description 2"
+  },
+  {
+    "title": "White Blood Cells",
+    "publishDate": 2003,
+    "description": "description 3"
+  },
+  {
+    "title": "White Blood Cells",
+    "publishDate": 2004,
+    "description": "description 4"
+  }
+]
